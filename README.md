@@ -1,2 +1,6 @@
 # Apex
-Basic ANN in Python (no libraries used)
+CI Framework using C++
+
+## Features
+- Absolutely fuck all at the moment
+
